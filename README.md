@@ -123,3 +123,129 @@ Examine os clusters que possuem significativamente menos observações que outro
 Ainda temos as seguintes métricas: distância média do centróide, distância máxima do centróide, centróide do cluster, distâncias entre os centróides do cluster.
 
 Referência - > https://www-users.cse.umn.edu/~kumar001/dmbook/ch8.pdf
+
+## Español
+
+## Concepto
+Marketing Analytics comprende los procesos y tecnologías que permiten a los especialistas en marketing medir el éxito de sus iniciativas.
+
+Esto se hace midiendo el rendimiento de las campañas de marketing, recopilando los datos y analizando los resultados. Marketing Analytics aprovecha las métricas comerciales clave, como el retorno de la inversión (ROI), la atribución de marketing y la eficacia general de marketing. En otras palabras, Marketing Analytics muestra si los programas de Marketing están siendo efectivos o no.
+
+Marketing Analytics reúne datos de todos los canales de marketing y los consolida en una vista de marketing común. A partir de esa vista común, puede extraer resultados analíticos que pueden brindar una asistencia invaluable para impulsar los esfuerzos de marketing.
+
+## ¿Por qué es importante la analítica de marketing?
+
+A lo largo de los años, a medida que las empresas se expandieron a nuevas categorías de marketing, se adoptaron nuevas tecnologías para respaldarlas. Como cada nueva tecnología se implementaba normalmente de forma aislada, el resultado era un revoltijo de entornos de datos desconectados.
+
+Como resultado, los especialistas en marketing a menudo toman decisiones basadas en datos de canales individuales (marketing digital y métricas de sitios web, por ejemplo) sin considerar todo el panorama de marketing. Los datos de las redes sociales por sí solos no son suficientes. Los datos de análisis web por sí solos no son suficientes. Y las herramientas que solo analizan una instantánea de tiempo de un solo canal son lamentablemente inadecuadas.
+
+Marketing Analytics, por otro lado, considera todos los esfuerzos de marketing en todos los canales durante un período de tiempo, lo cual es esencial para tomar las decisiones correctas y ejecutar de manera eficiente las campañas e iniciativas de marketing de una empresa.
+
+## ¿Qué podemos hacer con Marketing Analytics?
+Con Marketing Analytics, podemos responder preguntas como estas:
+- ¿Cómo están nuestros esfuerzos de marketing hoy? ¿Qué tal a largo plazo? ¿Qué podemos hacer para mejorarlos?
+- ¿Cómo se comparan nuestras actividades de marketing con las de nuestros competidores? ¿Dónde están gastando su tiempo y dinero? ¿Están usando canales que nosotros no estamos usando?
+- ¿Qué debemos hacer a continuación? ¿Están nuestros recursos de marketing asignados correctamente? ¿Estamos dedicando tiempo y dinero a los canales correctos? ¿Cómo debemos priorizar nuestras inversiones para el próximo año?
+- ¿Cuál es el perfil de nuestros clientes? ¿Son de la misma área regional? ¿Tienes los mismos gastos y preferencias?
+- ¿Puedo segmentar a mis clientes por similitud? ¿Cómo puedo saber los gastos por grupo?
+- Y muchos otros...
+
+## ¿Qué es la segmentación de clientes?
+La segmentación de clientes es el proceso de dividir a los clientes en grupos en función de características comunes, de modo que las empresas puedan comercializar a cada grupo de manera efectiva y adecuada, o simplemente comprender los patrones de consumo de los clientes.
+
+## Marketing B2B frente a marketing B2C
+En el marketing Business-to-Business (B2B), una empresa puede segmentar a los clientes de acuerdo con una amplia variedad de factores, que incluyen:
+- Industria
+- Número de empleados
+- Productos comprados previamente a la empresa
+- Ubicación
+
+En el marketing Business-to-Consumer (B2C), las empresas segmentan a los clientes según la demografía y los patrones de consumo, como:
+- Edad
+- Género
+- Estado civil
+- Ubicación (urbana, suburbana, rural)
+- Etapa de vida (sin hijos, jubilado, etc.)
+- Productos comprados
+- Cantidad gastada
+- Tiempo de consumo
+
+## ¿Por qué segmentar clientes?
+La segmentación permite a los especialistas en marketing adaptar mejor sus esfuerzos de marketing a varios subconjuntos de audiencias objetivo. Estos esfuerzos pueden estar relacionados con las comunicaciones y el desarrollo de productos. Específicamente, la segmentación ayuda a una empresa a:
+
+- Crear y comunicar mensajes de marketing dirigidos que resonarán en grupos específicos de clientes, pero no en otros (que recibirán mensajes adaptados a sus necesidades e intereses).
+- Seleccione el mejor canal de comunicación para el segmento, que puede ser correo electrónico, publicaciones en redes sociales, públicamente en la radio u otro enfoque, según el segmento.
+- Identificar formas de mejorar productos o nuevas oportunidades para productos o servicios.
+- Establecer mejores relaciones con los clientes.
+- Probar opciones de precios.
+- Centrarse en los clientes más rentables.
+- Mejora del servicio al cliente.
+- Elegir entre venta al por mayor y venta cruzada de otros productos y servicios.
+
+## ¿Cómo segmentar clientes?
+La segmentación de clientes requiere que una empresa recopile información específica (datos) sobre los clientes y la analice para identificar patrones que puedan usarse para crear segmentos.
+
+Parte de esto se puede obtener de la información de compra: título, geografía, productos comprados, por ejemplo. Algunos de estos se pueden obtener de cómo el cliente ingresó a su sistema. Un especialista en marketing que trabaja con una lista de correo electrónico de registro puede segmentar los mensajes de marketing de acuerdo con la oferta de registro que atrajo al cliente, por ejemplo. Sin embargo, otra información, incluida la demografía del consumidor, como la edad y el estado civil, deberá adquirirse de otras maneras.
+
+Los métodos típicos de recopilación de información incluyen:
+- Entrevistas presenciales o telefónicas
+- Investigaciones
+- Recopilación de información publicada sobre categorías de mercado.
+- Grupos de enfoque
+- Acceder a datos a sistemas o aplicaciones.
+
+## Uso de segmentos de clientes
+Las características comunes entre los segmentos de clientes pueden guiar cómo una empresa comercializa segmentos individuales y qué productos o servicios promueve. La segmentación de clientes puede ser practicada por todas las empresas, independientemente de su tamaño o sector, y de si venden online o de forma presencial. Comienza con la recolección y análisis de datos y finaliza con actuar sobre la información recolectada de manera adecuada y eficaz, con la entrega de conclusiones.
+
+## Marketing Analytics también es:
+- Análisis de cesta de la compra - Extracción de reglas de asociación -> https://github.com/EricPassosScience/Market_Basket_Analysis/blob/main/README.md
+- Pruebas A/B
+- Análisis de KPI
+- Text Analytics 
+
+# Segmentación de clientes de una red de Food Delivery
+Crearemos un conjunto de datos ficticio para segmentar a los clientes según la cantidad de productos comprados y la ubicación. El script en pyton es muy sencillo, pero sirve de base para varios trabajos.
+
+## Diccionario de datos
+- id_transacción <- ID de transacción. Un único ID puede tener varios artículos de pedido.
+- horario_pedido <- Hora exacta del pedido
+- ubicación <- Ubicación que procesó el pedido (unidad de restaurante)
+- item_name <- Nombre del artículo (pizza, ensalada, bebida y postre)
+- item_quantity <- Cantidad de artículos en el pedido
+- Latitud <- Latitud de la ubicación donde se generó el pedido
+- Longitud <- Longitud de la ubicación donde se genera el pedido
+
+## Análisis de conglomerados
+Para realizar el agrupamiento utilizaremos el algoritmo más utilizado por su usabilidad, el K-means.
+Documentación -> https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
+
+## Algoritmo
+k-Means Clustering es un algoritmo de aprendizaje automático no supervisado. A diferencia de los algoritmos tradicionales de aprendizaje automático supervisado, K-Means intenta clasificar los datos sin ser entrenado primero en datos etiquetados.
+
+K-Means es probablemente el algoritmo de agrupación en clústeres más conocido y es fácil de entender e implementar. Vamos a ver:
+- Para empezar, primero seleccionamos el número de clases/grupos que queremos e inicializamos aleatoriamente sus respectivos puntos centrales (centroides). Para calcular el número de clases a utilizar, es bueno echar un vistazo rápido a los datos e intentar identificar grupos distintos.
+- Cada punto de datos se ordena calculando la distancia entre ese punto y cada centro de grupo y luego ordenando el punto en el grupo cuyo centro está más cercano.
+- En base a estos puntos clasificados, recalculamos el centro del grupo, promediando todos los vectores del grupo.
+- Repetimos estos pasos para un número determinado de iteraciones o hasta que los centros de clúster no cambien mucho entre iteraciones. También puede optar por inicializar aleatoriamente los centros del grupo varias veces y seleccionar la ejecución que parece haber dado los mejores resultados. K-Means tiene la ventaja de ser muy rápido, ya que en realidad estamos calculando las distancias entre puntos y centros de conglomerados; ¡Son solo algunos cálculos! Por lo tanto, tiene una complejidad lineal O(n).
+
+Por otro lado, K-Means tiene algunos inconvenientes. Primero, debe seleccionar cuántos grupos/clústeres. Esto no siempre es trivial, e idealmente con un algoritmo de agrupamiento queremos que los resuelva, porque el objetivo es obtener información de los datos.
+
+K-means también comienza con una elección aleatoria de centros de conglomerados y, por lo tanto, puede producir diferentes resultados de conglomerados en diferentes ejecuciones del algoritmo. Por lo tanto, los resultados pueden no ser repetibles y carecer de consistencia. Otros métodos de agrupamiento son más consistentes.
+
+K-Medians es otro algoritmo de agrupamiento relacionado con K-Means, excepto que en lugar de volver a calcular los puntos centrales del clúster usando la media, usamos el vector de la mediana del clúster. Este método es menos sensible a los valores atípicos (debido al uso de la mediana), pero es mucho más lento para conjuntos de datos más grandes, ya que se requiere ordenar en cada iteración al calcular el vector de la mediana.
+
+### Otros algoritmos de agrupamiento:
+- Agrupación de desplazamiento medio -> https://scikit-learn.org/stable/modules/generated/sklearn.cluster.MeanShift.html
+- Agrupación espacial basada en densidad de aplicaciones con ruido (DBSCAN)- (datos con ruido/errores; el ruido no dejará de influir en la agrupación) -> https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html
+- Agrupación de expectativas-maximización (EM) utilizando modelos de mezcla gaussiana (GMM) - > https://scikit-learn.org/stable/modules/mixture.html
+- Agrupación jerárquica aglomerativa ->https://scikit-learn.org/stable/modules/generated/sklearn.cluster.AgglomerativeClustering.html
+
+## Métricas de agrupamiento
+## Interpretación
+Examine el número de observaciones en cada conglomerado al interpretar medidas de variabilidad como la distancia media y la suma de cuadrados dentro del conglomerado. La variabilidad de un conglomerado puede verse afectada por tener un número mayor o menor de observaciones. Por ejemplo, la suma de los cuadrados dentro del conglomerado aumenta a medida que se agregan más observaciones.
+
+Examine los conglomerados que tienen significativamente menos observaciones que otros conglomerados. Los conglomerados que tienen pocas observaciones pueden contener valores atípicos u observaciones inusuales con características únicas.
+
+Todavía tenemos las siguientes métricas: distancia de centroide promedio, distancia de centroide máxima, centroide de clúster, distancias entre centroides de clúster.
+
+Referencia -> https://www-users.cse.umn.edu/~kumar001/dmbook/ch8.pdf
